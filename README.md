@@ -159,8 +159,6 @@ The completed dashboard enables decision-makers to:
 
 ---
 
----
-
 ## Dashboard Preview
 
 
