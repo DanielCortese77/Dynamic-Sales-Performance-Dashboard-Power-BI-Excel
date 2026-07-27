@@ -162,18 +162,6 @@ The completed dashboard enables decision-makers to:
 ## Repository Contents
 
 ```
-📁 PowerBI-Sales-Dashboard
-│
-├── Performance Report Dashboard Project_Daniel Cortese.pbix
-├── Plant_DTS.xlsx
-├── README.md
-└── images
-    ├── dashboard-overview.png
-    ├── kpi-dashboard.png
-    ├── waterfall-analysis.png
-    ├── treemap.png
-    └── scatter-analysis.png
-```
 
 ---
 
