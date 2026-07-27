@@ -159,10 +159,6 @@ The completed dashboard enables decision-makers to:
 
 ---
 
-## Repository Contents
-
-```
-
 ---
 
 ## Dashboard Preview
