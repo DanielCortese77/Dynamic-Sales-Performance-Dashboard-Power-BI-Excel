@@ -164,8 +164,8 @@ The completed dashboard enables decision-makers to:
 ```
 📁 PowerBI-Sales-Dashboard
 │
-├── Dashboard.pbix
-├── Sales_Data.xlsx
+├── Performance Report Dashboard Project_Daniel Cortese.pbix
+├── Plant_DTS.xlsx
 ├── README.md
 └── images
     ├── dashboard-overview.png
