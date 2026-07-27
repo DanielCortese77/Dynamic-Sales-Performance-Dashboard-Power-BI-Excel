@@ -176,4 +176,4 @@ The completed dashboard enables decision-makers to:
 
 **Daniel Cortese**
 
-Aspiring Business Analyst| Customer Success| Relationship Management & Strategy | SQL | Power BI | Excel | Data Analytics
+Aspiring Business Analyst | Customer Success | Relationship Management & Strategy | SQL | Power BI | Excel | Data Analytics
