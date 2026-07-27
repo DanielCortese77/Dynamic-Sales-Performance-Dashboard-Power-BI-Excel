@@ -1,3 +1,4 @@
+<img width="1286" height="727" alt="Performance Dashboard 1  Sales" src="https://github.com/user-attachments/assets/fcac0826-0966-40f6-910d-2c35c4a3b2d0" />
 # 📊 Dynamic Sales Performance Dashboard | Power BI & Excel
 
 ## Project Overview
@@ -183,7 +184,7 @@ The completed dashboard enables decision-makers to:
 
 Example:
 
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/Performance Dashboard 1. Sales.png)
 
 ![KPI Dashboard](images/kpi-dashboard.png)
 
